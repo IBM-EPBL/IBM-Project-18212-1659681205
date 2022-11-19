@@ -1,24 +1,45 @@
 # IBM-Project-18229-1659681520
 
-# Early Detection of Chronic Kidney Disease using Machine Learning
+# Real-Time River Water Quality Monitoring And Control System 
 
-Chronic Kidney Disease (CKD) is a major medical problem and can be cured if treated in the early stages.
-Usually, people are not aware that medical tests we take for different purposes could contain valuable information concerning kidney diseases. 
-Consequently, attributes of various medical tests are investigated to distinguish which attributes may contain helpful information about the disease. 
-The information says that it helps us to measure the severity of the problem and we make use of such information to build a machine learning model that predicts Chronic Kidney Disease
+# PROJECT FLOW
+Sending random pH values and turbidity values will be sent to the IBM IoT platform
+
+Sensors values can be viewed in the Web Application
+
+Notifies the admin the random values cross the threshold value
+
+To accomplish this, we have to complete all the activities and tasks listed below:
+
+
+Create and configure IBM Cloud Services
+
+Create IBM Watson IoT Platform 
+
+Create a device & configure the IBM IoT Platform
+
+Create Node-RED service
+
+Create a database in Cloudant DB to store location data
+
+Develop a web Application using Node-RED Service.
+
+Develop the web application using Node-RED
+
+Develop a python script to publish the location details to the IBM IoT platform 
 
 
 
-# *Team ID : PNT2022TMID22079*
+# *Team ID : PNT2022TMID22083
 
 Training Branch : B4-4M6E
 
 Team Size : 4
 
-Team Leader : Yuwaraj T K
+Team Leader : NAVEEN ANAND.S
 
-Team member : Shiek Asif Ahmed
+Team member : JASHWANTH.B
 
-Team member : Manikandan A
+Team member : NAGARAJ.R
 
-Team member : Pranish .S
+Team member : SENNAPPAN.S
